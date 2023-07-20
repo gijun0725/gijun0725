@@ -70,3 +70,28 @@
 <br>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
+
+Project
+------
+----------
+1.Style Transfer
+ >개요:영상내에 존재하는 한국어의 스타일을 유지하면서 영어 혹은 다른언어로 이질감 없이 바꾸어주거나 글자만을 지워주는 프로그램과 기능을 제공하기위한 웹사이트
+ >
+ >Github: https://github.com/gijun0725/Mostel_Paper
+ >
+ >개발환경: python, pytorch, AWS 서버, Image Generation model , Mostel model , MySQL, Flask
+ >
+ >역할: MOSTEL모델 훈련을위한 데이터셋 구축, MOSTEL Model Customizing, DataPreProcessing
+ >
+ >프로젝트 참여 인원:4명
+>
+2.구름모양을 보고 강수 예측을 돕는 프로그램
+ >개요 : 위성사진을 보고 강수와 관련이 높은 구름들을 디텍팅 하여 기상예보관이 좀더 정확한 분석을 가능하게 해주는 프로그램
+>
+ >github : https://github.com/
+>
+ >개발환경: python, pytorch, model (yolov4, yolov5, yolov8)
+>
+ >역할 : 이미지 데이터 라벨링 수정, 이미지 전처리, yolov5 및 yolov8 custom fine-tuning을 위한 pipeline 구축
+>
+ >프로젝트 참여 인원 : 3명
