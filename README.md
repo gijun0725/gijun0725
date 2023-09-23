@@ -1,8 +1,37 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gijun%20Github!&fontSize=90" />	
 </div>
+
+<div align="center">
+  
+  ### :hatched_chick:GiJun's Link:hatched_chick:
+  
+  <img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
+  
+  <a href="https://velog.io/@gijun0725/about"><img src="https://img.shields.io/badge/gijun.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/gijungorithm-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://suave-lilac-075.notion.site/Dalchive-ec0bc59746804968a085c2cf46151c80"><img src="https://img.shields.io/badge/Dalchive-ffffff?style=badge&logo=notion&logoColor=black"/></a> <a href="https://suave-lilac-075.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835&pvs=4"><img src="https://img.shields.io/badge/Projects-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
+  ---
+
+</div>
+<div align="right">
+    <a href="https://velog.io/@gijun0725/about"><img src="https://img.shields.io/badge/gijun.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a>
+</div>
+<a href="https://github.com/eungyeole/velog-readme-stats"><img align="right" src="https://velog-readme-stats.vercel.app/api?name=velopert"/></a>
+
+- 🪄 [**PosePicker**](https://github.com/pose-picker) - 기획 및 FE 개발 <sub>(2023.07 ~ )</sub>
+- 🏢 **(주)BKL** - SW Dev 인턴[업체 웹 페이지 및 어플 개발] <sub>(2023.03 ~ 06)</sub>
+- 🥗 [Eatda(잇다)](https://github.com/eatda) - FE 개발 <sub>(2022.12 ~ 23.02)</sub>
+- 딥러닝 부트캠프 수료 - 5 FE <sub>(2022.09 ~ 23.02)</sub>
+- 건국대학교 [FOLDS 프로젝트 진행] <sub>(2022.08)</sub>
+- GDSC Ewha - 3기 Core Member 대외팀 <sub>(2021.09 ~ 22.07)</sub>
+- I Say Lab 언어연구소 [홈페이지 개발](https://github.com/seondal/ChildCare) 외주 <sub>(2021.12)</sub>
+
+---
+
+<a href="https://solved.ac/whkakrkr"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact"/></a>
+
+
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h3>📚Tech Stack & 🛠Tools</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
@@ -18,62 +47,23 @@
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
 	<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-</div>
-<br>
-<div align=center>
-	<p>🛠 Tools 🛠</p>
-</div>
-<div align=center>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<br>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/Google colab-F9AB00?style=flat&logo=Google colab&logoColor=white" />
 	<img src="https://img.shields.io/badge/Flask-3481FE?style=flat&logo=Flask&logoColor=white" />
 </div>
 <br>
-<div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div align=center>
-	<a href="https://yermi.co.kr">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
-	<a href="https://yermi.tistory.com">
-		<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistoryr&logoColor=white" />
-	</a>
-	<a href="mailto:admin@yermi.co.kr">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
-	<br>
-</div>
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=leeslee1108&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
 
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
-</div>
-<br>
 
-![](./profile-3d-contrib/profile-season-animate.svg)
 
-Ai Project
-------
-----------
+
+
+---
+
+
+## AI 프로젝트
+
 1. :movie_camera: Style Transfer [한국어 스타일(색, 모양, 패턴)을 다른 언어로 자동편집 해주기!][:star2:특허 출원 완료 프로젝트:star2:]
  >개요:영상내에 존재하는 한국어의 스타일을 유지하면서 영어 혹은 다른언어로 이질감 없이 바꾸어주거나 글자만을 지워주는 프로그램과 기능을 제공하기위한 웹사이트
  >
