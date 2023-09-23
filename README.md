@@ -15,6 +15,7 @@
 <div align="right">
     <a href="https://velog.io/@gijun0725/about"><img src="https://img.shields.io/badge/gijun.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a>
 </div>
+<div>
 <a href="https://velog.io/@gijun0725"><img align="right" src="https://velog-readme-stats.vercel.app/api?name=gijun0725"/></a>
 
 - 🪄 [**PosePicker**](https://github.com/pose-picker) - 기획 및 FE 개발 <sub>(2023.07 ~ )</sub>
