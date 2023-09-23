@@ -71,7 +71,7 @@
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
-Project
+Ai Project
 ------
 ----------
 1.Style Transfer
