@@ -61,7 +61,7 @@
 
 
 ---
-
+https://github.com/gijun0725/Mostel_Paper
 
 ## AI 프로젝트
 
@@ -74,6 +74,8 @@
  >개발환경: python, pytorch, AWS 서버, Image Generation model , Mostel model , MySQL, Flask
  >
  >역할: MOSTEL모델 훈련을위한 데이터셋 구축, MOSTEL Model Customizing, DataPreProcessing
+ >
+ >논문 리뷰: https://github.com/gijun0725/Mostel_Paper
  >
  >프로젝트 참여 인원:4명
 >
