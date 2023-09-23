@@ -107,3 +107,21 @@
  >역할 : 데이터 수집, Fine-tuning
 >
  >프로젝트 참여 인원 : 3명
+---
+
+
+
+## Web & App 개발도 했어요!
+
+1. [BKL Startup 회사페이지 제작](https://github.com/gijun0725/Mostel_Paper)
+
+ >개요:영상내에 존재하는 한국어의 스타일을 유지하면서 영어 혹은 다른언어로 이질감 없이 바꾸어주거나 글자만을 지워주는 프로그램과 기능을 제공하기위한 웹사이트
+ >
+ >Github: https://github.com/gijun0725/Mostel_Paper
+ >
+ >개발환경: python, pytorch, AWS 서버, Image Generation model , Mostel model , MySQL, Flask
+ >
+ >역할: MOSTEL모델 훈련을위한 데이터셋 구축, MOSTEL Model Customizing, DataPreProcessing
+ >
+ >프로젝트 참여 인원:4명
+>
