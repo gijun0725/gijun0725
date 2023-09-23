@@ -65,7 +65,8 @@
 
 ## AI 프로젝트
 
-1. :movie_camera: Style Transfer [한국어 스타일(색, 모양, 패턴)을 다른 언어로 자동편집 해주기!][:star2:특허 출원 완료 프로젝트:star2:]
+1. [:movie_camera: **Style Transfer** [한국어 스타일(색, 모양, 패턴)을 다른 언어로 자동편집 해주기!][:star2:특허 출원 완료 프로젝트:star2:]](https://github.com/gijun0725/Mostel_Paper)
+
  >개요:영상내에 존재하는 한국어의 스타일을 유지하면서 영어 혹은 다른언어로 이질감 없이 바꾸어주거나 글자만을 지워주는 프로그램과 기능을 제공하기위한 웹사이트
  >
  >Github: https://github.com/gijun0725/Mostel_Paper
@@ -76,7 +77,7 @@
  >
  >프로젝트 참여 인원:4명
 >
-2. :sunny: :umbrella: :cloud: 구름모양만을 가지고 날씨를 예측하는데 도움을 줄수 있다?!
+2. [:sunny: :umbrella: :cloud: 구름모양만을 가지고 날씨를 예측하는데 도움을 줄수 있다?!](https://github.com/gijun0725/Mostel_Paper)
  >개요 : 위성사진을 보고 강수와 관련이 높은 구름들을 Detecting 하여 기상예보관이 좀더 정확한 분석을 가능하게 해주는 프로그램
 >
  >github : https://github.com/
@@ -87,7 +88,7 @@
 >
  >프로젝트 참여 인원 : 3명
 >
-3. :soccer: 승부차기 직전 선수의 표정을 보고 골의 확률을 예측해보자!
+3. [:soccer: 승부차기 직전 선수의 표정을 보고 골의 확률을 예측해보자!](https://github.com/gijun0725/Mostel_Paper)
  >개요 : Image Classfication을 이용하여 축구라는 스포츠에 VR시스템의 도입으로 더욱 재미가 있어졌던것과 같이 PK확률을 선수의 표정만을 보고 실시간으로 예측할 수 있는 프로그램
 >
  >github : https://github.com/
@@ -97,7 +98,7 @@
 >
  >프로젝트 참여 인원 : 3명
 
-4. :memo: 이제 더이상 회의록은 신입이 아닌 내가 담당한다!
+4. [:memo: 이제 더이상 회의록은 신입이 아닌 내가 담당한다!](https://github.com/gijun0725/Mostel_Paper)
  >개요 : 신입들의 작은 고충 회의록을 음성과 텍스트를 이용하여 자동생성하고 이를 토대로 수정과 추가를 통해 업무를 줄여주고자 만든 프로그램
 >
  >github : https://github.com/
