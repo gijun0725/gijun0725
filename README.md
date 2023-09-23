@@ -61,7 +61,6 @@
 
 
 ---
-https://github.com/gijun0725/Mostel_Paper
 
 ## AI 프로젝트
 
