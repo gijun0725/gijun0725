@@ -59,12 +59,11 @@
 
 
 
-
 ---
 
 ## AI 프로젝트
 
-1. [:movie_camera: **Style Transfer** [한국어 스타일(색, 모양, 패턴)을 다른 언어로 자동편집 해주기!][:star2:특허 출원 완료 프로젝트:star2:]](https://github.com/gijun0725/Mostel_Paper)
+1. [:movie_camera: **Style Transfer** [한국어 스타일(색, 모양, 패턴)을 다른 언어로 자동편집 해주기!][:star2:특허 출원 완료 프로젝트:star2:]](https://github.com/gijun0725/Text-Style-Transfer)
 
  >개요:영상내에 존재하는 한국어의 스타일을 유지하면서 영어 혹은 다른언어로 이질감 없이 바꾸어주거나 글자만을 지워주는 프로그램과 기능을 제공하기위한 웹사이트
  >
