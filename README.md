@@ -67,7 +67,7 @@
 
  >개요:영상내에 존재하는 한국어의 스타일을 유지하면서 영어 혹은 다른언어로 이질감 없이 바꾸어주거나 글자만을 지워주는 프로그램과 기능을 제공하기위한 웹사이트
  >
- >Github: [https://github.com/gijun0725/Mostel_Paper](https://github.com/gijun0725/Text-Style-Transfer)
+ >Github: https://github.com/gijun0725/Text-Style-Transfer
  >
  >개발환경: python, pytorch, AWS 서버, Image Generation model , Mostel model , MySQL, Flask
  >
