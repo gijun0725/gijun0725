@@ -60,7 +60,7 @@
 
 
 ---
-\
+
 ## AI 프로젝트
 
 1. [:movie_camera: **Style Transfer** [한국어 스타일(색, 모양, 패턴)을 다른 언어로 자동편집 해주기!][:star2:특허 출원 완료 프로젝트:star2:]](https://github.com/gijun0725/Text-Style-Transfer)
