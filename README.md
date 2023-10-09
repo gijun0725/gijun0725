@@ -80,7 +80,7 @@
 2. [:sunny: :umbrella: :cloud: 구름모양만을 가지고 날씨를 예측하는데 도움을 줄수 있다?!](https://github.com/gijun0725/Cloud-Based-Weather-Forecasting/tree/main)
  >개요 : 위성사진을 보고 강수와 관련이 높은 구름들을 Detecting 하여 기상예보관이 좀더 정확한 분석을 가능하게 해주는 프로그램
 >
- >github : [https://github.com/](https://github.com/gijun0725/Cloud-Based-Weather-Forecasting/tree/main)
+ >github : [https://github.com/gijun0725/Cloud-Based-Weather-Forecasting/tree/main](https://github.com/gijun0725/Cloud-Based-Weather-Forecasting/tree/main)
 >
  >개발환경: python, pytorch, model (yolov4, yolov5, yolov8)
 >
